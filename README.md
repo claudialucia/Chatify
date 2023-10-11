@@ -15,7 +15,7 @@ https://acortar.link/B1bMUA
 # Preview de Chatify
 
 <img width="249" alt="Captura de pantalla 2023-10-10 130819" src="https://github.com/claudialucia/Chatify/assets/97206195/a3b61024-9e19-4cfd-9bda-7c060e6d869b">
-![image](https://github.com/claudialucia/Chatify/assets/97206195/b1905ddf-8c69-4a55-a15a-dcd4cfefe412)
-![image](https://github.com/claudialucia/Chatify/assets/97206195/810c0863-4e1e-4a08-8c68-91f6438cd432)
-![image](https://github.com/claudialucia/Chatify/assets/97206195/f8f86ed7-3b3f-4f0e-8e32-0608e187f712)
-![image](https://github.com/claudialucia/Chatify/assets/97206195/c77bf527-4c7f-492f-807b-1e9530de2f4b)
+![image](https://github.com/claudialucia/Chatify/assets/97206195/638b101d-ab0f-4650-b4ba-4d2152ba5655)
+![image](https://github.com/claudialucia/Chatify/assets/97206195/4341504c-d2d8-429a-93cf-c4b7f7b02676)
+![image](https://github.com/claudialucia/Chatify/assets/97206195/9dbab1e2-d0d6-4541-ab61-46498ea54bec)
+
